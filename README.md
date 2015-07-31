@@ -17,8 +17,9 @@ Make the application extensible so that it is easy to “plug in” a new format
         
         Part A
       ------------  
-        1.for PdfWrite, I used jar file Of Itext and configured into classpath.
-        2. Make and Used classes are "AlienOnEarthApp, AlienInfo, Exporter,PdfWrite, TextWrite"
+        1. For run the project, run 'AlienOnEarthApp.java'.
+        2.for PdfWrite, I used jar file Of Itext and configured into classpath.
+        3. Make and Used classes are "AlienOnEarthApp, AlienInfo, Exporter,PdfWrite, TextWrite".
         
         Part B
         ---------
