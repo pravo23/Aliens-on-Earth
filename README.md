@@ -22,4 +22,5 @@ Make the application extensible so that it is easy to “plug in” a new format
         
         Part B
         ---------
-        If It'd require to add new type of format say "TempWrite", then we just need to add new class say TempWrite, and extend AliennOnEarthApp for new format.
+        If It'd require to add new type of format say "TempWrite", then we just 
+        need to add new class say TempWrite, and extend AliennOnEarthApp for new format.
